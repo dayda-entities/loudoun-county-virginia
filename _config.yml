@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://www.loudoun.gov/profile_pics/pages/N232/Loudoun%20County%20Seal%20-%20Web.jpg
+profile_pic: 'https://directory.dayda.org/assets/img/entities/loudoun-county-virginia.png'
 favicon: /assets/img/favicon.png
 url: 'http://loudoun-county-virginia.dayda.org'
 encoding: utf-8
