@@ -1,39 +1,40 @@
 ---
-title: Loudoun Miscellaneous Cultural Areas
-created: '2020-11-12T12:19:32.469020'
-modified: '2020-12-04T18:10:15.068351'
+title: Loudoun Miscellaneous Cultural Arcs
+created: '2020-11-12T12:19:20.204554'
+modified: '2020-12-04T18:09:50.733760'
 state: active
 type: dataset
 tags:
-  - Area
+  - Arcs
   - Base Layers
   - Loudoun
   - Miscellaneous Cultural
   - Open Data
-  - Polygon
-  - Recreation
 groups: []
 csv_url: >-
-  https://geohub-loudoungis.opendata.arcgis.com/datasets/eb0c1b29212649b6b6f68edb38f91fcf_2.csv?outSR=%7B%22latestWkid%22%3A2924%2C%22wkid%22%3A2924%7D
+  https://geohub-loudoungis.opendata.arcgis.com/datasets/3d79e28f9755401cb1b4bdeb36115403_1.csv?outSR=%7B%22latestWkid%22%3A2924%2C%22wkid%22%3A2924%7D
 json_url: ''
 layout: post
 
 ---
-<div><a href='https://logis.loudoun.gov/metadata/Misc%20polygons.html' target='_blank'>Metadata</a><br /></div>
+<div><a href='https://logis.loudoun.gov/metadata/Misc%20arcs.html' target='_blank'>Metadata</a><br /></div><div>
 
 <p style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4C4C4C;background:white'>Miscellaneous cultural areas are a base map data layer derived by automated processes and
-processed for cartographic representation at 1:2400 scale. These area features
-represent the features that do not fall under the more common layer types such
-as roads, buildings, etc. Typical features captured in miscellaneous polys are
-cemeteries, quarries, swimming pools, athletic fields, and golf course features
-as seen from above and are mapped to National Map Accuracy Standards (NMAS).</span></p>
+normal'><span style='font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'>Miscellaneous cultural arcs are a base map data layer derived by automated processes and
+processed for cartographic representation at 1:2400 scale. These line features
+represent the features that do not fall under the more common planimetric
+layers. Typical features captured in miscellaneous arcs are sidewalks, trails,
+dams, guardrails, fences, decks, culverts, footbridges, walls, and golf course
+boundary features as seen from above and are mapped to National Map Accuracy
+Standards (NMAS).</span></p>
 
 <p style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-normal;background:white'><span style='font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4C4C4C;background:white'>MI_TYPE
-code description: 1 Pools (swimming pools or settling ponds), 2 Impervious
-Recreational Courts, 3 Non-Impervious Recreational Courts, 4 Cemetery, 5 
-unassigned, 6 Rip Rap, 7 Quarry, 8 Area under construction, storage or debris,
-9 Golf Course feature (bunkers, tees &amp; greens).</span></p>
+normal'><span style='font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'> </span></p>
+
+<p style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'>MI_TYPE
+code description: 1 Sidewalks, 2 Road Shoulders, 3 Guard rails, 4 Dams/Levees,
+5 Headwall/Culvert, 6 concrete channels /paved ditches, 7 docks, boat ramps, 8
+trails (paved, unpaved, or gravel hiking/biking/pedestrian), 9 golf course boundary,
+10 retaining wall, 11 fence, 12 pads/patios, 13 decks, 14 Utilities, 15
+Transformer substation, 16 Tank, 17 Footbridge, 18 Sound Barrier/High Wall.</span></p><div><br /><div><br /></div></div></div>
